@@ -1,0 +1,47 @@
+# ignore all files in the data directory
+data/
+
+# ignore all files in the build directory
+build/
+
+# ignore all files in the dist directory
+dist/
+
+# ignore all files in the node_modules directory
+node_modules/
+
+# ignore all files in the vendor directory
+vendor/
+
+# ignore all files in the .docker directory
+.docker/
+
+# ignore all files in the .env directory
+.env
+
+# ignore all files in the .env.production directory
+.env.production
+
+# ignore all files in the .env.staging directory
+.env.staging
+
+# ignore all files in the .env.development directory
+.env.development
+
+# ignore all files in the .dockerignore directory
+.dockerignore
+
+# ignore all files in the docker-compose.override.yml directory
+docker-compose.override.yml
+
+# ignore all files in the docker-compose.yml directory
+#docker-compose.yml
+
+# ignore all files in the Dockerfile directory
+#Dockerfile
+
+# ignore all files in the docker-compose.prod.yml directory
+#docker-compose.prod.yml
+
+# ignore all files in the docker-compose.dev.yml directory
+#docker-compose.dev.yml
